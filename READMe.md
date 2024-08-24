@@ -13,3 +13,7 @@ Next, I employed an ESP-32 to not only control the motors but also establish a W
 
 
 Check a YouTube video showing it in action... https://youtube.com/shorts/bnqy1P9bGVc
+
+
+# 3D File
+![Onshape project](https://github.com/AlexN0va/BluetoothAlexaDiscoBall/blob/main/images/Screenshot%202023-01-09%20212337.png)
